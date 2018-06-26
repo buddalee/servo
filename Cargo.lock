@@ -1795,7 +1795,7 @@ dependencies = [
 [[package]]
 name = "mozjs"
 version = "0.8.0"
-source = "git+https://github.com/asajeffrey/rust-mozjs.git?branch=smup#5e43f6d315352c8b7ac9dfbb986a412d640c5c06"
+source = "git+https://github.com/asajeffrey/rust-mozjs.git?branch=smup#3ceb56376967e49acd6b927832d20709a83cdd5d"
 dependencies = [
  "cc 1.0.5 (registry+https://github.com/rust-lang/crates.io-index)",
  "lazy_static 1.0.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -1808,7 +1808,7 @@ dependencies = [
 [[package]]
 name = "mozjs_sys"
 version = "0.60.0"
-source = "git+https://github.com/asajeffrey/mozjs.git?branch=smup#65ab5d55242a385be59766805ddd1630e368e4c2"
+source = "git+https://github.com/asajeffrey/mozjs.git?branch=smup#2473c62fa614478bf62323394bbae9e94590b554"
 dependencies = [
  "bindgen 0.36.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "cc 1.0.5 (registry+https://github.com/rust-lang/crates.io-index)",
